@@ -1,7 +1,35 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19702926&assignment_repo_type=AssignmentRepo)
+
 # MongoDB Fundamentals Assignment
 
 This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
+
+# 📘 MongoDB Week 1 Assignment – PLP Bookstore
+
+## 📁 Project Overview
+
+This project demonstrates the use of MongoDB for backend data handling, including database setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
+
+
+
+##  How to Run the Scripts
+
+## Requirements
+- Node.js installed on your system
+- MongoDB installed locally or access to a MongoDB Atlas cluster
+- MongoDB Shell (`mongosh`) or MongoDB Compass installed
+
+---
+
+###  Running `insert_books.js`
+
+This script inserts 10 book records into the `books` collection inside the `plp_bookstore` database.
+
+1. Open your terminal or command prompt.
+2. Navigate to the project folder:
+   ```bash
+   cd path/to/your/project-folder
+
 
 ## Assignment Overview
 
